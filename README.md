@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Adham Mohamed! 
 
-<!--
-**Adhammo23/Adhammo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About Me
+I am a passionate **Java Backend Developer** dedicated to building robust, scalable, and efficient server-side applications. I love solving complex problems, designing clean APIs, and continuously learning new technologies to write clean, maintainable code.
 
-Here are some ideas to get you started:
+-  I’m currently focusing on advanced **Spring Boot** features and microservices architecture.
+-  Fun fact: I believe that writing clean code is an art form!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tech Stack & Tools
+
+**Languages & Core:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=c&logoColor=white" alt="DSA"/>
+</p>
+
+**Frameworks & Backend Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+</p>
+
+**Databases & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+###  GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhammo23&show_icons=true&theme=radical&hide_border=true" alt="Adham's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhammo23&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+###  Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/adham-mohamed-1b61a9370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adham231366@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
