@@ -32,18 +32,6 @@ I am a passionate **Java Backend Developer** dedicated to building robust, scala
 
 ---
 
-###  GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhammo23&show_icons=true&theme=radical&hide_border=true" alt="Adham's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhammo23&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ###  Connect with Me
 
 <p align="left">
