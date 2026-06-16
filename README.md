@@ -3,7 +3,7 @@
 ###  About Me
 I am a passionate **Java Backend Developer** dedicated to building robust, scalable, and efficient server-side applications. I love solving complex problems, designing clean APIs, and continuously learning new technologies to write clean, maintainable code.
 
--  I’m currently focusing on advanced **Spring Boot** features and microservices architecture.
+-  I’m currently focusing on advanced **Spring Boot** features
 -  Fun fact: I believe that writing clean code is an art form!
 
 ---
